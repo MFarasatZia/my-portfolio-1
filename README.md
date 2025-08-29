@@ -16,7 +16,7 @@
 
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
+![Portfolio Demo](./public/image/screen.png)
 
 ## View live preview [here](https://farasat-portfolio.netlify.app/).
 

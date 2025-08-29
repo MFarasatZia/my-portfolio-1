@@ -73,6 +73,7 @@ function ContactForm() {
                 maxLength="100"
                 required={true}
                 disabled
+                value={userInput.name}
               />
             </div>
             <div className="flex flex-col gap-2">
@@ -83,6 +84,7 @@ function ContactForm() {
                 maxLength="100"
                 required={true}
                 disabled
+                value={userInput.email}
               />
             </div>
             <div className="flex flex-col gap-2">
@@ -94,6 +96,7 @@ function ContactForm() {
                 required={true}
                 rows="4"
                 disabled
+                value={userInput.message}
               />
             </div>
             <div className="flex flex-col items-center gap-3">

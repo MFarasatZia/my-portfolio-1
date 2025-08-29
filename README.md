@@ -10,7 +10,7 @@
 
 # Developer Portfolio
 
-#### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
+#### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer & DevOps Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
 
 ---
 
@@ -18,7 +18,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://farasat-portfolio.netlify.app/).
 
 ---
 
@@ -151,21 +151,17 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "FARASAT",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
+  description: "My name is FARASAT....",
   email: "abusaid7388@gmail.com",
   phone: "+8801608797655",
   address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
+  github: "https://github.com/MFarasatZia",
+  linkedIn: "https://www.linkedin.com/in/m-farasat-zia-576492222/",
+  devUsername: "farasat-zia",
+  resume: "https://drive.google.com/file/d/1cadBbUDOHERUWp5lQbHpdUIeaG3cmEZm/view?usp=sharing",
 };
 ```
 
